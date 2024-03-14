@@ -9,7 +9,7 @@
 </div>
 ## Sobre
 
-<p>Este é um simples script em `javascript` que utiliza a biblioteca [chalk-rainbow<a href=https://www.npmjs.com/package/chalk-rainbow></a>]</p>
+<p>Este é um simples script em `javascript` que utiliza a biblioteca <a href=https://www.npmjs.com/package/chalk-rainbow>chalk-rainbow</a></p>
 ##
 
 ### Adquirindo o Código

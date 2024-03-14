@@ -16,7 +16,7 @@
 
 ### Adquirindo o Código
 
-Vo pode adquirir o código deste projeto de diferentes maneiras:
+Você pode adquirir o código deste projeto de diferentes maneiras:
 
 #### Baixando o repositório em zip
 

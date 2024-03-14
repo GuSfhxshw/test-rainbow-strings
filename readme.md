@@ -4,7 +4,7 @@
  
  ### <div align=center>Utilizando estas tecnologias.</div>
 <div align="center">
-<img src=https://img.shields.io/badge/-JavaScript-FD6117?style=for-the-badge&logo=javascript&labelColor=000000&textColor=0D1117/> &nbsp;
+<img src=https://https://img.shields.io/badge/-JavaScript-FFFF00?style=for-the-badge&logo=javascript&labelColor=000000&textColor=0D1117/> &nbsp;
 <img src=https://img.shields.io/badge/-Node.JS-FD6117?style=for-the-badge&logo=node.js&labelColor=000000&textColor=0D1117/> &nbsp;
 </div>
 

@@ -1,6 +1,6 @@
 # Criando strings coloridas
 
-<h1 align-items = center> Este código serve para testar uma biblioteca javascript que imprime texto com cores.</p>
+<h2 align-items = center> Este código serve para testar uma biblioteca javascript que imprime texto com cores.</h2>
  
  ### <div align=center>Utilizando estas tecnologias.</div>
 <div align="center">
@@ -10,7 +10,7 @@
 
 ## Sobre
 
-<h5>Este um simples script em programado em Javascript executado por  NodeJS que utiliza a biblioteca [<a href=https://www.npmjs.com/package/chalk-rainbow>chalk-rainbow</a>]</h5>
+<h3>Este um simples script em programado em Javascript executado por  NodeJS que utiliza a biblioteca [<a href=https://www.npmjs.com/package/chalk-rainbow>chalk-rainbow</a>]</h3>
 
 ##
 

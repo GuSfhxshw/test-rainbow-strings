@@ -1,1 +1,0 @@
-var chalkRainbow = require('chalk-rainbow') console.log(chalkRainbow('Awesome rainbow string!')); // => essa parte eh seguindo a documentacao

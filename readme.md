@@ -7,6 +7,7 @@
 <img src=https://img.shields.io/badge/-JavaScript-5557?style=for-the-badge&logo=javascript&labelColor=000000&textColor=0D1117/> &nbsp;
 <img src=https://img.shields.io/badge/-Node.JS-55517?style=for-the-badge&logo=node.js&labelColor=000000&textColor=0D1117/> &nbsp;
 </div>
+
 ## Sobre
 
 <p>Este é um simples script em `javascript` que utiliza a biblioteca <a href=https://www.npmjs.com/package/chalk-rainbow>chalk-rainbow</a></p>

@@ -10,7 +10,7 @@
 
 ## Sobre
 
-<p>Este é um simples script em `JS` que utiliza a biblioteca <a href=https://www.npmjs.com/package/chalk-rainbow>chalk-rainbow</a></p>
+<p>Este é um simples script em programado em Javascript `executado por NodeJS` que utiliza a biblioteca <a href=https://www.npmjs.com/package/chalk-rainbow>chalk-rainbow</a></p>
 
 ##
 

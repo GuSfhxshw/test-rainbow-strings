@@ -1,6 +1,6 @@
 # Criando strings coloridas
 
-<p align-items = center> Este código serve para testar uma biblioteca javascript que imprime texto com cores.</p>
+<h1 align-items = center> Este código serve para testar uma biblioteca javascript que imprime texto com cores.</p>
  
  ### <div align=center>Utilizando estas tecnologias.</div>
 <div align="center">
@@ -10,7 +10,7 @@
 
 ## Sobre
 
-<p>Este é um simples script em programado em Javascript `executado por NodeJS` que utiliza a biblioteca <a href=https://www.npmjs.com/package/chalk-rainbow>chalk-rainbow</a></p>
+<h1>Este é um simples script em programado em Javascript executado por NodeJS que utiliza a biblioteca <a href=https://www.npmjs.com/package/chalk-rainbow>chalk-rainbow</a></h1>
 
 ##
 
@@ -30,7 +30,7 @@ Para clonar o repositório e ter uma cópia do código em sua máquina local, si
 2. Abra seu terminal ou o Git Bash.
 3. Altere o diretório de trabalho atual para o local em que deseja ter o diretório clonado.
 4. Copie a URL do repositório.
-5. Digite o seguinte comando no terminal, substituindo `<URL-do-repositório>` pela URL que você copiou:
+5. Digite o seguinte comando no teminal, substituindo <URL-do-repositório>` pela URL que você copiou:
 
 ```
 git clone <url-do-repositorio>

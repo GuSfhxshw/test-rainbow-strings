@@ -11,7 +11,7 @@
 ## Sobre
 
 <h4>Este é um simples script em programado em Javascript executado por 
-NodeJS que utiliza a biblioteca <a href=https://www.npmjs.com/package/chalk-rainbow>chalk-rainbow</a></h1>
+NodeJS que utiliza a biblioteca [<a href=https://www.npmjs.com/package/chalk-rainbow>chalk-rainbow</a>]</h1>
 
 ##
 
